@@ -8,9 +8,6 @@ https://www.linkedin.com/in/lauren-a-louie/
 ## Requirements:
 Using Python through Google Colab to complete this project.
 
-## License:
-Anyone may use these resources in this repository and are allowed to use my findings and analysis for personal or professional projects.
-
 ## Description
 The purpose of this project is to addresses inequality of educational opportunity in high schools in the United States. We will focus on average student performance on the ACT or SAT exams that students take as part of the college application process.
 
@@ -41,5 +38,28 @@ The following actions were done to properly prepare the data for further analysi
 - Split the data between training/testing
 - Normalized the training/testing data
 - Used data imputation method to replace missing values in the columns
+
+## License:
+MIT License
+
+Copyright (c) 2024 Lauren Louie
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
