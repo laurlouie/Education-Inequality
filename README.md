@@ -1,11 +1,11 @@
 # Education Inequality
 DATA 3320 Project 2: Education Inequality
 
-## Author:
+## Author
 Lauren Louie
 https://www.linkedin.com/in/lauren-a-louie/
 
-## Requirements:
+## Requirements
 Using Python through Google Colab to complete this project.
 
 ## Description
@@ -25,7 +25,7 @@ The school information data is taken from the National Center for Education Stat
 The data set ccd_sch_029_1617_w_1a_11212017.csv is too large for Github and can be accessed from the google drive link:
 https://drive.usercontent.google.com/u/0/uc?id=1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP&export=download
 
-## Data Preparation:
+## Data Preparation
 The following actions were done to properly prepare the data for further analysis:
 - Loaded each of the three data sets (EdGap, school_info, and census_df)
 - Converted data types and dropped NaN values in the NCESSCH column of the school_info data set
@@ -39,7 +39,7 @@ The following actions were done to properly prepare the data for further analysi
 - Normalized the training/testing data
 - Used data imputation method to replace missing values in the columns
 
-## License:
+## License
 MIT License
 
 Copyright (c) 2024 Lauren Louie
