@@ -1,6 +1,16 @@
 # Education Inequality
 DATA 3320 Project 2: Education Inequality
 
+## Author:
+Lauren Louie
+https://www.linkedin.com/in/lauren-a-louie/
+
+## Requirements:
+Using Python through Google Colab to complete this project.
+
+## License:
+Anyone may use these resources in this repository and are allowed to use my findings and analysis for personal or professional projects.
+
 ## Description
 The purpose of this project is to addresses inequality of educational opportunity in high schools in the United States. We will focus on average student performance on the ACT or SAT exams that students take as part of the college application process.
 
@@ -17,3 +27,19 @@ The school information data is taken from the National Center for Education Stat
 
 The data set ccd_sch_029_1617_w_1a_11212017.csv is too large for Github and can be accessed from the google drive link:
 https://drive.usercontent.google.com/u/0/uc?id=1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP&export=download
+
+## Data Preparation:
+The following actions were done to properly prepare the data for further analysis:
+- Loaded each of the three data sets (EdGap, school_info, and census_df)
+- Converted data types and dropped NaN values in the NCESSCH column of the school_info data set
+- Renamed columns to make it more readable for the author and audience
+- Selected relevant subsets of the data to only highlight the variables that would be beneficial for analyzing
+- Joined dataframes together
+- Underwent quality control to ensure we were only dealing with the necessary amount of data
+- Created a relevant derived variable as a new column
+- Identified missing values
+- Split the data between training/testing
+- Normalized the training/testing data
+- Used data imputation method to replace missing values in the columns
+
+
